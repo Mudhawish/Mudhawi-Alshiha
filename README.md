@@ -56,6 +56,6 @@ I enjoy exploring datasets, uncovering insights, and building solutions that tur
 
 ## 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudhawi-alshiha)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mudhawialshiha@outlook.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=outlook&logoColor=white)](mailto:mudhawialshiha@outlook.com)
 
 ---
