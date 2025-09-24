@@ -1,4 +1,4 @@
-# This is Mudhawi Alshiha  
+# This is Mudhawi Alshiha  👋🏽
 
 🎓 Software Engineering Graduate | 📊 Data Science & AI Enthusiast | ✅ SAP Certified (SAC Essentials & Integration Developer)  
 
